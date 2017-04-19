@@ -1,4 +1,7 @@
-# test coverage for  [subdomain (v1.2.0)](http://github.com/edwardhotchkiss/subdomain)  [![npm package](https://img.shields.io/npm/v/npmtest-subdomain.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-subdomain) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-subdomain.svg)](https://travis-ci.org/npmtest/node-npmtest-subdomain)
+# npmtest-subdomain
+
+#### basic test coverage for  [subdomain (v1.2.0)](http://github.com/edwardhotchkiss/subdomain)  [![npm package](https://img.shields.io/npm/v/npmtest-subdomain.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-subdomain) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-subdomain.svg)](https://travis-ci.org/npmtest/node-npmtest-subdomain)
+
 #### Node.js Express Subdomain Middleware.
 
 [![NPM](https://nodei.co/npm/subdomain.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/subdomain)
